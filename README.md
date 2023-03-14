@@ -1,5 +1,6 @@
-# Data Repository for Aspergillus Mutants
-This repository contains data and a Jupyter notebook that examines how the sequences for the Aspergillus mutants were found and retrieved. The mutants are strains of the Aspergillus fungus that have been genetically modified for research purposes.
+# Data Repository for the paper: The knockout of exocellulases results in a fungal enzymatic cocktail useful to produce oligosaccharides from pretreated sugarcane straw
+
+This repository contains data and a Jupyter notebook that examines how the sequences for the Aspergillus mutants were found and retrieved. The mutants are strains of the Aspergillus niger that have been genetically modified.
 
 ## Data
 The data in this repository includes:
