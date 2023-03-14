@@ -1,15 +1,17 @@
-# Data Repository for the paper: The knockout of exocellulases results in a fungal enzymatic cocktail useful to produce oligosaccharides from pretreated sugarcane straw
+# Data Repository for: The knockout of exocellulases results in a fungal enzymatic cocktail useful to produce oligosaccharides from pretreated sugarcane straw
 
-This repository contains data and a Jupyter notebook that examines how the sequences for the Aspergillus mutants were found and retrieved. The mutants are strains of the Aspergillus niger that have been genetically modified.
+This repository contains data and a Jupyter notebook that examines how the sequences for the Aspergillus mutants were found and retrieved.
+
 
 ## Data
 The data in this repository includes:
 
 - An excel file of the Aspergillus mutant strains and their corresponding identifiers
-- The DNA sequences for each mutant strain
-- The genome sequences were obtained from FungiDB and are provided in gb format.
+- Differentially expressed genes for each strain.
+- Genome sequences - were obtained from FungiDB and are provided in gb format.
 
 ## Jupyter Notebook
+
 The Jupyter notebook in this repository, Aspergillus_Mutants.ipynb, examines how the DNA sequences for the Aspergillus mutants were found and retrieved. The notebook includes code and explanations for:
 
 - Querying the databases to identify the Aspergillus mutants and their corresponding DNA sequences
