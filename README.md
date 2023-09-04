@@ -1,4 +1,4 @@
-# Data Repository for: The knockout of exocellulases results in a fungal enzymatic cocktail useful to produce oligosaccharides from pretreated sugarcane straw
+# Data Repository for: Secretome engineering of Aspergillus niger for cellooligossacharide production from plant biomass
 
 This repository contains data and a Jupyter notebook that examines how the sequences for the Aspergillus mutants were found and retrieved.
 
@@ -12,7 +12,7 @@ The data in this repository includes:
 
 ## Jupyter Notebook
 
-The Jupyter notebook in this repository, Aspergillus_Mutants.ipynb, examines how the DNA sequences for the Aspergillus mutants were found and retrieved. The notebook includes code and explanations for:
+The Jupyter notebook in this repository, [Aspergillus_Mutants.ipynb](notebooks/Aspergillus_mutants_retrieving_DE_mutant_seqs.ipynb), examines how the DNA sequences for the Aspergillus mutants were found and retrieved. The notebook includes code and explanations for:
 
 - Querying the databases to identify the Aspergillus mutants and their corresponding DNA sequences
 - Processing the DNA sequences to fasta files
