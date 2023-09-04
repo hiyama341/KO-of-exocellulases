@@ -15,9 +15,7 @@ The data in this repository includes:
 The Jupyter notebook in this repository, Aspergillus_Mutants.ipynb, examines how the DNA sequences for the Aspergillus mutants were found and retrieved. The notebook includes code and explanations for:
 
 - Querying the databases to identify the Aspergillus mutants and their corresponding DNA sequences
-- Processing the DNA sequences to remove any non-coding regions or other extraneous information
-- Analyzing the sequences to identify any common features or mutations that may be relevant for research purposes
-
+- Processing the DNA sequences to fasta files
 
 The notebook has detailed explanation of each each step of the analysis.
 
