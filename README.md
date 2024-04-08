@@ -1,4 +1,4 @@
-# Data Repository for: Secretome engineering of Aspergillus niger for cellooligossacharide production from plant biomass
+# Data Repository for "Knockout of major CAZymes induces adaption of Aspergillus niger secretome produced on plant biomass"
 
 This repository contains data and a Jupyter notebook that examines how the sequences for the Aspergillus mutants were found and retrieved.
 
@@ -6,7 +6,7 @@ This repository contains data and a Jupyter notebook that examines how the seque
 ## Data
 The data in this repository includes:
 
-- An excel file of the Aspergillus mutant strains and their corresponding identifiers
+- An Excel file of the Aspergillus mutant strains and their corresponding identifiers
 - Differentially expressed genes for each strain.
 - Genome sequences - were obtained from FungiDB and are provided in gb format.
 
@@ -17,7 +17,7 @@ The Jupyter notebook in this repository, [Aspergillus_Mutants.ipynb](notebooks/A
 - Querying the databases to identify the Aspergillus mutants and their corresponding DNA sequences
 - Processing the DNA sequences to fasta files
 
-The notebook has detailed explanation of each each step of the analysis.
+The notebook has a detailed explanation of each each step of the analysis.
 
 ## Usage
 To use this repository and reproduce the analysis, follow these steps:
